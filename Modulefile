@@ -1,0 +1,7 @@
+name    'damusnet-vim'
+version '0.0.1'
+author 'Damien Varron'
+license 'Apache License, Version 2.0'
+summary 'Installs vim'
+description 'Installs vim'
+project_page 'https://github.com/damusnet/puppet-vim'
